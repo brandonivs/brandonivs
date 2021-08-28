@@ -1,4 +1,4 @@
-# console.log('Hello World!!👋)
+# console.log('Hello World!!👋')
 
 I'm just starting I don't know what to put :(
 
