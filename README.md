@@ -28,7 +28,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <details>
   <summary> Stats </summary>
 
----------------
+
 
   <div align="center" width="100%">
     <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=brandonivs&theme=nord" alt="brandonivs"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=brandonivs&show_icons=true&theme=nord&count_private=true&show_owner=true&include_all_commits=true" alt="brandonivs's github stats">
@@ -36,6 +36,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 </details>
 
+---------------
+  
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/400151053741326337?&idleMessage=Probably%20sleeping%20or%20something%20else...)](https://discord.com/users/400151053741326337)
 
 
