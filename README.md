@@ -1,8 +1,22 @@
-# console.log('Hello World!!👋')
+<a href="https://github.com/brandonivs" >
+  <img src="https://i.imgur.com/P5hA3ha.png" width="110%" height="160px" />
+  
+---------------
+  
+<img align="right" width="300" height="200" src="https://i.imgur.com/BGpLTAW.png" />
 
-I'm just starting I don't know what to put :(
+```js
+const brandonivs = {
+  hi: "Hi 😄, I'm Brandon Torres",
 
-- 📫 Contactamen by: [Instagram](https://www.instagram.com/espaciocl/)  
+  e: 'Self-learning Programmer Developer',
+  langs: ['Español'],
+  learning: ['JavaScript', 'English'],
+};
+
+console.log(brandonivs.hi);
+```
+---------------
 
 ## 🚀 Coding
 <img aling="left" alt="HTML5" width="26px"
@@ -10,11 +24,19 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ---
 
-<img width="1000" height="400" align="left" style="float: left; margin: 0 10px 0 0;" alt="clear" src="https://i.goopics.net/56v9v9.jpg">  
 
-# Stats
+<details>
+  <summary> Stats </summary>
 
-> [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/400151053741326337?&idleMessage=Probably%20sleeping%20or%20something%20else...)](https://discord.com/users/400151053741326337)
+---------------
 
-> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonivs&show_icons=true&theme=algolia)
+  <div align="center" width="100%">
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=brandonivs&theme=nord" alt="brandonivs"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=brandonivs&show_icons=true&theme=nord&count_private=true&show_owner=true&include_all_commits=true" alt="brandonivs's github stats">
+  </div>
+
+</details>
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/400151053741326337?&idleMessage=Probably%20sleeping%20or%20something%20else...)](https://discord.com/users/400151053741326337)
+
+
 
