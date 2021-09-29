@@ -9,7 +9,7 @@
 const brandonivs = {
   hi: "Hi 😄, I'm Brandon Torres",
 
-  e: 'Self-learning Programmer Developer',
+  e: 'Programmer Developer',
   langs: ['Español'],
   learning: ['JavaScript', 'English'],
 };
