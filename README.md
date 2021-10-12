@@ -24,6 +24,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <details>
   <summary> Stats </summary>
@@ -38,9 +41,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 ---------------
   
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/400151053741326337?&idleMessage=Probably%20sleeping%20or%20something%20else...)](https://discord.com/users/400151053741326337)
-  
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
 
+  
+  
+  
 
 
