@@ -31,9 +31,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 
   <div align="center" width="100%">
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=brandonivs&theme=nord" alt="brandonivs"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=brandonivs&show_icons=true&theme=nord&count_private=true&show_owner=true&include_all_commits=true" alt="brandonivs's github stats">
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=brandonivs&theme=dark" alt="brandonivs"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=brandonivs&show_icons=true&theme=dark&count_private=true&show_owner=true&include_all_commits=true" alt="brandonivs's github stats">
   </div>
-
 </details>
 
 ---------------
