@@ -1,5 +1,5 @@
 <a href="https://github.com/brandonivs" >
-  <img src="https://i.imgur.com/P5hA3ha.png" width="110%" height="160px" />
+  <img src="https://i.imgur.com/P5hA3ha.png" width="110%" height="170px" />
   
 ---------------
   
